@@ -13,3 +13,5 @@ kaggle平台：https://www.kaggle.com/
  汽车燃油效率回归问题
 #### dd-nn-embedding-04
  单词嵌入向量
+#### dl-nn-rnn-05
+ RNN模型解决文本分类
