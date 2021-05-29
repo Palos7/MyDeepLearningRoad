@@ -11,3 +11,5 @@ kaggle平台：https://www.kaggle.com/
  网络电影评论二分类问题
 #### dl_nn_regression_03
  汽车燃油效率回归问题
+#### dd-nn-embedding-04
+ 单词嵌入向量
