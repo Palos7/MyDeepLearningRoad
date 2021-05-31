@@ -15,3 +15,5 @@ kaggle平台：https://www.kaggle.com/
  单词嵌入向量
 #### dl-nn-rnn-05
  RNN模型解决文本分类
+#### dl-nn-rnn2-06
+ RNN模型解决文本生成
